@@ -1,0 +1,6 @@
+Retrieve the employee details using cursors.
+Write a cursor program to display all the employee and department details.
+
+Write a function to give the number of employees for a given Department name.
+Write a PL/SQL to find the factorial of the given number using function.
+Write a procedure to accept an employee name and display his Department names.
