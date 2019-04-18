@@ -1,0 +1,2 @@
+Write a PL/SQL code to print the numbers in reverse order from 100 to 1.
+Create a PL/SQL block to find the sum of series 1+3+5+……+n .
