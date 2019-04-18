@@ -1,0 +1,3 @@
+Write a PL/SQL block to find the greatest of three numbers.
+Write a PL/SQL code to print the student’s grade accepting their marks in three subjects.\
+Write a PL/SQL block to reverse a number.
