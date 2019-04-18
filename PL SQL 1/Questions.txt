@@ -1,0 +1,5 @@
+Write a PL/SQL block to accept an empno and display the salary of the person. 
+Write a PL/SQL program to delete one record in employee table.
+Write a program to delete employee details who are having age > 60.
+Write a PL/SQL block to display employees must make a minimum salary of 60,000. 
+Write a PL/SQL to delete records whose basic salary is less 5000 from Emp table.
